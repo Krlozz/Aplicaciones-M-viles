@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "988163632602",
+    "firebase_url": "https://taller2-b79fd.firebaseio.com",
+    "project_id": "taller2-b79fd",
+    "storage_bucket": "taller2-b79fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988163632602:android:ff8a4c122294c8ba",
+        "android_client_info": {
+          "package_name": "com.carlosayalat.taller2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988163632602-nm0vedsr8hp4nnr9itl12dg0jfu44met.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carlosayalat.taller2",
+            "certificate_hash": "551c268986fc25140a52c39f30bd2227493f560a"
+          }
+        },
+        {
+          "client_id": "988163632602-6it4qu6mmc9dj9e4fp9b56dgg0l8td1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1h1jB9Raco-XAoHIu-b7JNzY1KRmFG5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988163632602-6it4qu6mmc9dj9e4fp9b56dgg0l8td1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
