@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "639269737533",
+    "firebase_url": "https://miprimerprograma.firebaseio.com",
+    "project_id": "miprimerprograma",
+    "storage_bucket": "miprimerprograma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639269737533:android:0327e640439b673e",
+        "android_client_info": {
+          "package_name": "com.carlosayalat.loggueogoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639269737533-0ma3lns5bjjc5hupk2q6ttg1h69u8vqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carlosayalat.loggueogoogle",
+            "certificate_hash": "551c268986fc25140a52c39f30bd2227493f560a"
+          }
+        },
+        {
+          "client_id": "639269737533-mt32pc8ohim6skaivgmlbh9iltfjatd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2S7fEML-pkfNhc7VvnPjejBkXCW0Ktg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639269737533-mt32pc8ohim6skaivgmlbh9iltfjatd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
