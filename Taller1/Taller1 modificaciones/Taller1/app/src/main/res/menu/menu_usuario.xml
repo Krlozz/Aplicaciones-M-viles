@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Ver" android:id="@+id/verUser"/>
+    <item android:title="Comprar" android:id="@+id/compUser"/>
+    <item android:title="Modificar" android:id="@+id/modUser"/>
+    <item
+        android:id="@+id/elimProd"
+        android:title="Eliminar" />
+</menu>
