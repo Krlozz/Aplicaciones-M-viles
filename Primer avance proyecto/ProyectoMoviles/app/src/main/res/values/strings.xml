@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoMóviles</string>
+
+    <string name="facebook_app_id">584904595217412</string>
+    <string name="fb_login_protocol_scheme">fb584904595217412</string>
+
+</resources>
