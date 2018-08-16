@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "642091971414",
+    "firebase_url": "https://examenib-6a7aa.firebaseio.com",
+    "project_id": "examenib-6a7aa",
+    "storage_bucket": "examenib-6a7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642091971414:android:9018bbeb865864e2",
+        "android_client_info": {
+          "package_name": "com.example.krlozz.examenib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642091971414-fj7q9t9s9reiop84cnesth7mvag4gbhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krlozz.examenib",
+            "certificate_hash": "2b98e8b6b750373964583c92bcbc219ed82f644a"
+          }
+        },
+        {
+          "client_id": "642091971414-nfb7kipk3j5q59g9fccpi2h09apspc34.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "642091971414-nfb7kipk3j5q59g9fccpi2h09apspc34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJwUEAEcbbGliYf-4EQQ59CZHs2qgy2I8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642091971414-nfb7kipk3j5q59g9fccpi2h09apspc34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
