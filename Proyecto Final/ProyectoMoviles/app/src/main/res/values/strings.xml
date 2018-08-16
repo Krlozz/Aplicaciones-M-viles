@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProyectoMóviles</string>
+
+    <string name="facebook_app_id">584904595217412</string>
+    <string name="fb_login_protocol_scheme">fb584904595217412</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_principal">Principal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_usuario">Usuario</string>
+    <string name="tab_text_1">Perfil</string>
+    <string name="tab_text_2">Galería</string>
+    <string name="tab_text_3">OpenCV</string>
+
+</resources>
